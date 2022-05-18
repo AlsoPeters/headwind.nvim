@@ -1,5 +1,8 @@
 # headwind.nvim
 
+Forked from steelsojka/headwind.nvim with and added patch from hood/headwind.nvim for my personal use.
+
+
 Port of the [VSCode headwind plugin](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
 
 This is still alpha level software... use with caution.
